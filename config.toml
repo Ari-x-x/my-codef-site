@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "The Tower of London"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
