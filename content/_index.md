@@ -6,7 +6,10 @@ draft: true
 
 ## Traditional East-African food with a tasteful twist influence from the Middle East
 
-![Arobana](a-bunch-of-trees.jpg)
+> *One cannot think well, love well, sleep well, if one has not dined well.*
+>
+> Virgina Woolf
+
 
 *Who are we?*
 
@@ -67,7 +70,7 @@ Inserting link practice:
 
 Images:
 
-
+![Arobana](a-bunch-of-trees.jpg)
 
 
 
