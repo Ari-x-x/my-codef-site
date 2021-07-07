@@ -1,5 +1,5 @@
 title = "Home"
-baseURL = "https://example.com"
+baseURL = "https://zealous-wing-8dd214.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
