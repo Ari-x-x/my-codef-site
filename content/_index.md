@@ -15,7 +15,7 @@ draft: false
 
 Intricate gourmet coffees paired with delicious fresh pastry, Caffeina is the perfect cafe for coffee-lovers. With such a rich scent of freshly-ground coffee beans in the air, it allows for the opportunity to take a deep breathe and unwind. 
 
-We are obessed with coffee (slightly ovbious with our name!) and make such a variety of different tastes all ethically sourced from Columbia, Ethiopia and many more countries across the world. 
+We are obessed with coffee (slightly ovbious with our name!) and make such a variety of different tastes all ethically sourced from Colombia, Ethiopia and many more countries across the world. 
 
 ### Most Popular Drinks:
 
