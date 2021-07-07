@@ -23,3 +23,5 @@ draft: false
 
 **For more information, please get into contact with us**
 
+[Gallery](http://localhost:1313/contact/)
+
