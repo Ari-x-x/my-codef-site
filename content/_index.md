@@ -1,12 +1,12 @@
 ---
-title: "Arobana" 
+title: "Caffeina" 
 date: 2021-07-06T10:34:59+01:00
 draft: false
 ---
 
 ## Freshly brewed coffee with a tasteful twist of ethically-sourced coffee beans
 
-> * My birthstone is a coffee bean.*
+> *My birthstone is a coffee bean.*
 >
 > **Unknown/Anonymous**
 
