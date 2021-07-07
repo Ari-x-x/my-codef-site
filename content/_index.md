@@ -8,10 +8,12 @@ draft: true
 
 > *One cannot think well, love well, sleep well, if one has not dined well.*
 >
-> Virgina Woolf
+> **Virgina Woolf**
 
 
-*Who are we?*
+
+
+## Who are we?
 
 Arobana is a resturant whose cuisine is inspired by Traditional Eastern African recipes, specifically from Eritrea and Ethiopia. We have a wide-variety of dishes from spicy meat stews to tapas-like range of vegetratian sauces. A staple part of our meal is injera, a sour-like pancake which is used using your hands to wrap sauces. 
 
@@ -31,6 +33,9 @@ Arobana is a resturant whose cuisine is inspired by Traditional Eastern African 
 [[insert image here]
 
 
+To see more of our dishes, follow the link below:
+
+[Gallery](http://localhost:1313/gallery/)
 
 Link below to the gallery
 
