@@ -1,7 +1,7 @@
 ---
 title: "Arobana" 
 date: 2021-07-06T10:34:59+01:00
-draft: true
+draft: false
 ---
 
 ## Traditional East-African food with a tasteful twist influence from the Middle East
@@ -37,7 +37,6 @@ To see more of our dishes, follow the link below:
 
 [Gallery](http://localhost:1313/gallery/)
 
-Link below to the gallery
 
 Footnote: address
 
