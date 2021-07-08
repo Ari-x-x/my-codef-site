@@ -6,8 +6,15 @@ draft: false
 
 Here is out little spam of our lovely cafe!
 
-![](highlands.jpg)
+![](nathan-dumlao-2VSTCRx8ccY-unsplash.jpg)
 
+![](nathan-dumlao-2z3MOB3kfJU-unsplash.jpg)
+
+![](nathan-dumlao-Y3AqmbmtLQI-unsplash.jpg)
+
+![](nathan-dumlao-zUNs99PGDg0-unsplash.jpg)
+
+![](daan-evers-tKN1WXrzQ3s-unsplash.jpg)
 
 
 
