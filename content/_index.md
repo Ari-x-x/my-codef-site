@@ -17,19 +17,19 @@ Intricate gourmet coffees paired with delicious fresh pastry, Caffeina is the pe
 
 We are obessed with coffee (slightly ovbious with our name!) and make such a variety of different tastes all ethically sourced from Colombia, Ethiopia and many more countries across the world. 
 
-### Most Popular Drinks:
+### Most Popular Drinks and Food:
 
 1. **Latte**
 
-[insert image here]
+![Latte](billy-kwok-vfiA7rRtjWo-unsplash.jpg)
 
-2. **Frappcino**
+2. **Frappuccino**
 
-[insert image here]
+![Frappuccino](victor-rutka-4FujjkcI40g-unsplash.jpg)
 
-3. **Double Expresso**
+3. **Brunch**
 
-[[insert image here]
+![Brunch](nathan-dumlao-2VSTCRx8ccY-unsplash.jpg)
 
 
 To see more of our coffees, follow the link below:

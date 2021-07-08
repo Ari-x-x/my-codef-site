@@ -6,7 +6,7 @@ draft: false
 
 Here is out little spam of our lovely cafe!
 
-![coffee](highlands.jpg)
+![](highlands.jpg)
 
 
 
