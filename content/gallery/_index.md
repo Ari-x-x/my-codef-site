@@ -4,7 +4,9 @@ date: 2021-07-06T23:59:58+01:00
 draft: false
 ---
 
-Here is out little spam of our lovely cafe!
+Here is out little spam of our lovely cafe with some lovely jazz music!
+
+{{< youtube K2Q6YO3Ez44 >}}
 
 ![](nathan-dumlao-2VSTCRx8ccY-unsplash.jpg)
 
@@ -15,6 +17,10 @@ Here is out little spam of our lovely cafe!
 ![](nathan-dumlao-zUNs99PGDg0-unsplash.jpg)
 
 ![](daan-evers-tKN1WXrzQ3s-unsplash.jpg)
+
+![](nick-hillier-xBXF9pr6LQo-unsplash.jpg)
+
+
 
 
 
