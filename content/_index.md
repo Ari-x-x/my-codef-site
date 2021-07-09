@@ -8,7 +8,7 @@ draft: false
 
 > *My birthstone is a coffee bean.*
 >
-> **Unknown/Anonymous**
+> **Unknown**
 
 
 ## Who are we?
@@ -35,9 +35,6 @@ We are obessed with coffee (slightly ovbious with our name!) and make such a var
 To see more of our coffees, follow the link below:
 
 [Gallery](http://localhost:1313/gallery/)
-
-
-Footnote: address
 
 
 

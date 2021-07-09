@@ -1,0 +1,24 @@
+{{ define "about" }}
+
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+
+<main aria-role="main">
+      <header class="homepage-header baskerville near-black">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content tj navy baskerville">
+        {{.Content}}
+      </div>
+      <div>
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
+      </div>
+    </main>
+
+  </article>
+
+{{ end }}
