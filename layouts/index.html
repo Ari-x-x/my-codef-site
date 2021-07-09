@@ -9,10 +9,12 @@
         <span class="subtitle">{{.}}</span>
         {{ end }}
       </header>
-      <div class="homepage-content tj navy">
+      <div class="homepage-content tj navy baskerville">
         {{.Content}}
       </div>
       <div>
+
+        
         {{ range first 10 .Site.RegularPages }}
             {{ .Render "summary"}}
         {{ end }}
