@@ -1,10 +1,10 @@
 ---
-title: "Gallery"
+title: "Virtual Cafe"
 date: 2021-07-06T23:59:58+01:00
 draft: false
 ---
 
-Here is out little spam of our lovely cafe with some lovely jazz music!
+Here is out little spam of our lovely cafe with some lovely jazz music! Use this zone to relax and unwind. 
 
 {{< youtube K2Q6YO3Ez44 >}}
 
